@@ -1,5 +1,5 @@
 <template>
-  <p class="test-header">TEST WEBSITE</p>
+  <p class="test-header">TEST GITHUB PAGES WEBSITE</p>
   <router-view />
 </template>
 
